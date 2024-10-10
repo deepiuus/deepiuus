@@ -5,7 +5,7 @@ I'm a french dev, based in Nice. I like to play and develop video games on my fr
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=deepiuus"/></a></p>
 
 > [!NOTE]
-> You have to use dark mode, or else i'm coming for you...
+> You have to use dark mode...
 ### Contact me
 <div align="center">
     <a href="https://discordapp.com/users/deepiuus">
