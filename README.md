@@ -3,7 +3,7 @@ I'm a French developer based in Nice. In my free time, I enjoy playing and devel
 ##
 <p align="center"><a href="https://github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepiuus&show_icons=true&hide_border=true&layout=compact"/></a></p>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=deepiuus&show_icons=true&hide_border=true&count_private=true"/></a></p>
-<p align="center"><a href="https://github.com/deepiuus/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepiuus&hide_border=true"/></a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deepiuus)](https://git.io/streak-stats)
 
 ### Contact me
 <div align="center">
